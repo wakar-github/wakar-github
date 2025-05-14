@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**wakar-github/wakar-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wakar-github/wakar-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![DSC_0056-01](https://github.com/user-attachments/assets/81a2f538-726f-4846-8c1f-cf794fbe50c1)
+
 
 Here are some ideas to get you started:
 
